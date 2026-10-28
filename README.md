@@ -2,11 +2,11 @@
 
 Created by <a href="https://edavalosanaya.github.io" target="_blank">Eduardo Davalos</a> and <a href="https://scholar.google.com/citations?user=_E0SGAkAAAAJ&hl=en" target="_blank">Yike Zhang</a> from <a href="https://ailuruslab.github.io" target="_blank">Trinity University</a> and <a href="https://knotlab.github.io/KnotLab/" target="_blank">St. Mary's University</a>
 
-### [Paper](https://arxiv.org/abs/2609.17883)
+### [Paper](https://arxiv.org/abs/2609.17883) | [Video](https://youtu.be/ewHm234OpqY)
 
 <p></p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2609.17883-b31b1b)](https://arxiv.org/abs/2609.17883) [![Conference](https://img.shields.io/badge/AHFE-2026-D2452F)](#reference) [![Python](https://img.shields.io/badge/python-3.12%2B-blue)](pyproject.toml) [![GitHub License](https://img.shields.io/github/license/AilurusLab/AITemporalFingerprint_AHFE2026)](#license)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.17883-b31b1b)](https://arxiv.org/abs/2609.17883) [![YouTube](https://img.shields.io/badge/YouTube-talk-FF0000?logo=youtube&logoColor=white)](https://youtu.be/ewHm234OpqY) [![Conference](https://img.shields.io/badge/AHFE-2026-D2452F)](#reference) [![Python](https://img.shields.io/badge/python-3.12%2B-blue)](pyproject.toml) [![GitHub License](https://img.shields.io/github/license/AilurusLab/AITemporalFingerprint_AHFE2026)](#license)
 
 Generative AI has made the finished essay or program unreliable evidence of student learning, and AI detectors that judge only the final product are inaccurate and ethically contentious. This repository contains the analysis code for our [AHFE 2026 paper](https://arxiv.org/abs/2609.17883), which asks whether AI assistance leaves a **temporal signature in how work is produced**, whether that signature **generalizes from writing to programming**, and whether it separates **ordinary collaboration from wholesale delegation**. Every feature is computed from timing alone, with no text content and no AI labels.
 
