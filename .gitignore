@@ -1,0 +1,19 @@
+# private notes, drafts, and third-party material (not published)
+/docs
+/literature
+
+# datasets (download separately; see README)
+data/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# OS / Office
+.DS_Store
+~$*
+
+# paper and talk (published via arXiv instead)
+manuscript/
+presentation/

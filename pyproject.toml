@@ -1,0 +1,17 @@
+[project]
+name = "ahfe2026"
+version = "0.1.0"
+description = "Temporal signatures of AI overreliance in writing and programming (AHFE 2026)"
+requires-python = ">=3.12"
+dependencies = [
+    "fontawesomefree>=6.6.0",
+    "gdown>=6.1.0",
+    "huggingface-hub>=1.26.0",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.1",
+    "pandas>=3.0.5",
+    "pyarrow>=25.0.0",
+    "python-docx>=1.2.0",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.18.0",
+]
